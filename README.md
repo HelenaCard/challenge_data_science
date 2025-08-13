@@ -20,7 +20,7 @@ Neste desafio, temos que avaliar os dados fornecidos no CVS e calcular os seguin
 
 ## Relatório 
 - [Arquivo em PDF]()
-- [Código no colab e considerações nas análises]()
+- [Código no colab e considerações nas análises](https://github.com/HelenaCard/challenge_data_science/blob/main/Desafio_ONE.ipynb)
 
 ## Para realizar este projeto, saiba mais sobre:
 - Python: uma linguagem de programação simples e fácil de aprender. Ótima para realizar análise de dados
