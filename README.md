@@ -26,8 +26,11 @@ A análise busca determinar qual loja do Sr. João apresenta menor desempenho e,
 ## 📂 Estrutura do Projeto
 
 📦 analise-investimento
+
 ┣ 📜 Desafio_ONE.ipynb # Notebook com a análise completa
+
 ┣ 📜 README.md # Este arquivo de documentação
+
 ┗ 📂 dados # (opcional) Arquivos CSV das lojas
 
 
@@ -42,7 +45,6 @@ O notebook realiza:
    - Gráfico de barras → Receita total por loja.
    - Gráfico de linha → Receita média por venda.
    - Gráfico de pizza → Participação no faturamento total.
-   - 
 
 ## ▶️ Como Executar
 1. Clone este repositório:
@@ -50,13 +52,13 @@ O notebook realiza:
    git clone https://github.com/seu-usuario/analise-investimento.git
 
 
-Abra o arquivo Desafio_ONE.ipynb no Google Colab ou Jupyter Notebook.
+- Abra o arquivo Desafio_ONE.ipynb no Google Colab ou Jupyter Notebook;
 
-Instale as bibliotecas necessárias (se ainda não instaladas):
+- Instale as bibliotecas necessárias (se ainda não instaladas);
 
-pip install pandas matplotlib
+- pip install pandas matplotlib;
 
-Execute todas as células para reproduzir a análise.
+- Execute todas as células para reproduzir a análise.
 
 ## 📈 Resultados
 
@@ -70,13 +72,13 @@ Loja 4: Menor faturamento e menor receita média por venda → candidata mais pr
 
 Lógica de programação
 
-Algoritmos
+- Algoritmos
 
-Estruturas de controle e funções
+- Estruturas de controle e funções
 
-Análise exploratória de dados
+- Análise exploratória de dados
 
-Visualização gráfica com Python
+- Visualização gráfica com Python
 
 ## 📌 Conclusão
 
