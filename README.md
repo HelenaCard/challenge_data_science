@@ -88,7 +88,7 @@ Lógica de programação
 Com base na análise financeira, a Loja 4 apresenta o menor desempenho e é a candidata mais provável para venda.
 No entanto, fatores estratégicos e de mercado devem ser avaliados antes da decisão final.
 
-## Baixe aqui o Relatório Final (pdf)
+## [Baixe aqui o Relatório Final (pdf)](https://github.com/HelenaCard/challenge_data_science/blob/main/Relat%C3%B3rio%20challenge.pdf)
 
 ## 📜 Licença
 
@@ -96,6 +96,7 @@ Este projeto está sob a licença MIT. Sinta-se à vontade para utilizar e modif
 
 
 Para saber mais: 
+
 [Clonar repositório](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository)
 
 [Como realizar um Readme](https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github?utm_term=&utm_campaign=topo-aon-search-gg-dsa-artigos_conteudos&utm_source=google&utm_medium=cpc&campaign_id=11384329873_164240702375_703853654617&utm_id=11384329873_164240702375_703853654617&hsa_acc=7964138385&hsa_cam=topo-aon-search-gg-dsa-artigos_conteudos&hsa_grp=164240702375&hsa_ad=703853654617&hsa_src=g&hsa_tgt=dsa-2276348409543&hsa_kw=&hsa_mt=&hsa_net=google&hsa_ver=3&gad_source=1&gad_campaignid=11384329873&gclid=EAIaIQobChMIhZbMvo-QjwMVQyRECB0TjidWEAAYASAAEgKN3vD_BwE)
